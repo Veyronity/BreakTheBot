@@ -49,7 +49,7 @@ Break features two tiers; Free & Premium. Premium is purchased monthly in-game u
  - `/watchlist` - know what player you are currently watching
  - keep in mind you may only watch one player at a time, and the bot will not inform you if it rewrites a name
 - `/permson` - print towns with permissions left ON
-- `/flagons` - print towns with pvp/explosion/fire/mobs ON. filter availlable
+- `/flagson` - print towns with pvp/explosion/fire/mobs ON. filter availlable
 - `/calculatepurge` - print when a player will 42d
 - `/checkpremium` check if user has Premium
 
