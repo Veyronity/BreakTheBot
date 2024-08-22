@@ -49,20 +49,20 @@ Break features two tiers; Free & Premium. Premium is purchased monthly in-game u
  - `/watchlist` - know what player you are currently watching
  - keep in mind you may only watch one player at a time, and the bot will not inform you if it rewrites a name
 - `/permson` - print towns with permissions left ON
-- `/flagons` - print towns with pvp/explosion/fire/mobs ON. filter availlable
+- `/flagson` - print towns with pvp/explosion/fire/mobs ON. filter availlable
 - `/calculatepurge` - print when a player will 42d
 - `/checkpremium` check if user has Premium
 
 
 At the time of writing this, August 20th 2024, The bot has hit 100 Servers for a while now and is awaiting Verification to grow. Statistics say an estimated 7,500 Unique discord accounts have access to the bot throughout the 100 Servers.
 
-For any issues, inquiries, or just to use the bot, join the support discord here: https://discord.gg/kwvrgt6jH5
-
+For any issues, inquiries, or just to use the bot, join the support discord [here](https://discord.gg/kwvrgt6jH5)
+To Invite the bot directly to your server, use [this](https://discord.com/oauth2/authorize?client_id=1258025463633150025)
 
 Project Credits:
-- Veyronity; Founder
-- lprogrammer; contributing to development
-- chariskar; TOS & Privacy Policy
+- [veyronity](https://github.com/Veyronity/); Founder & main Developer
+- [lprogrammer](https://github.com/Lucasv-github); contributing to development <3
+- [charis_k](https://github.com/chariskar); ToS & Privacy Policy
 
 Sponsors:
 - JR1258
